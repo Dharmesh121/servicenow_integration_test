@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 04:32:22</sys_created_on>
+        <sys_id>784a1f6c2f39301063eebac62799b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_677532_innovate_innovate.x_677532_innovate.employee</sys_name>
+        <sys_package display_value="Innovate" source="x_677532_innovate">5af71be42ff5301063eebac62799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">5af71be42ff5301063eebac62799b6bf</sys_scope>
+        <sys_security_acl display_value="x_677532_innovate_innovate">fc4a1f6c2f39301063eebac62799b6e6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_784a1f6c2f39301063eebac62799b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 04:32:22</sys_updated_on>
+        <sys_user_role display_value="x_677532_innovate.employee" name="x_677532_innovate.employee">ee3893ec2ff1301063eebac62799b64c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
